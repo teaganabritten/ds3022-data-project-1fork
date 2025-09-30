@@ -1,0 +1,6 @@
+taxi_emissions:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: rides.duckdb

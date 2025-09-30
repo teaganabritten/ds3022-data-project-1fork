@@ -1,0 +1,9 @@
+# Logs
+*.log
+
+# DuckDB
+*.duckdb
+
+# Data
+*.parquet
+
